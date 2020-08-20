@@ -18,6 +18,8 @@ applications.
 
 ## Notable Links
 Links that are relavent to the course
+* [_coursera](https://www.coursera.org/learn/cs-410/home/welcome)
+* [_deadlines](https://www.coursera.org/learn/cs-410/supplement/wBlrv/course-deadlines-late-policies-and-academic-calendar)
 * [Example Syllabus](https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=515)
 * [Personal Course GitHub](https://github.com/mikhaidn/TextInformationSystemsCS410)
 ## Notable Repos
